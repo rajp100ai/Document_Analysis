@@ -8,3 +8,22 @@ wheels/
 
 # Virtual environments
 .venv
+venv
+
+
+data/
+.ipynb_checkpoints
+.bin
+*.db
+*.parquet
+*.html
+*.csv
+.idea
+**/artifacts/
+**/models/
+**.env
+**.terraform/
+**.terraform.lock*
+**terraform.tfstate*
+
+.DS_Store

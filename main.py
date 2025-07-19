@@ -1,5 +1,5 @@
 def main():
-    print("Hello from document-analysis!")
+    print("Hello from main() document-analysis!")
 
 
 if __name__ == "__main__":
